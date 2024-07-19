@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_ria.candrawatibankmega.com</name>
+   <tag></tag>
+   <elementGuidId>9f15caf9-6e83-455d-ba7a-8ff4fb45e150</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='navigation']/ul/li/a/small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>c19c4c45-680c-48e0-9ef2-043fbf673666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ria.candrawati@bankmega.com</value>
+      <webElementGuid>5af64097-1800-46fb-805e-e8682f29f6e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navigation&quot;)/ul[@class=&quot;user-menu nav nav-tabs nav-stacked main-menu&quot;]/li[@class=&quot;mm-profile user-link&quot;]/a[@class=&quot;dropdown&quot;]/small[1]</value>
+      <webElementGuid>8e546443-837a-4884-ab60-7a763b221ea0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='navigation']/ul/li/a/small</value>
+      <webElementGuid>d2717d43-dac9-4e55-8dac-555303f45ac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RIA CANDRAWATI'])[1]/following::small[1]</value>
+      <webElementGuid>ca06f462-a804-43e8-8723-6c1d8e12284b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View all assignments'])[1]/following::small[1]</value>
+      <webElementGuid>8c46ff93-cf0e-4cb2-a2ca-64cff812c2a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::small[1]</value>
+      <webElementGuid>656b3323-24d4-4ed4-9d86-5469a840bd27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[2]/preceding::small[1]</value>
+      <webElementGuid>9d09bbde-866c-4e97-9f8f-c5990bdd1177</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ria.candrawati@bankmega.com']/parent::*</value>
+      <webElementGuid>4d820a94-a218-47ed-a186-bbd96a28822b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small</value>
+      <webElementGuid>2cfbb44a-f3d8-46f9-a2c0-fb7980ac2eaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'ria.candrawati@bankmega.com' or . = 'ria.candrawati@bankmega.com')]</value>
+      <webElementGuid>c4be679e-4e6e-45d1-8d03-a9908d18d681</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

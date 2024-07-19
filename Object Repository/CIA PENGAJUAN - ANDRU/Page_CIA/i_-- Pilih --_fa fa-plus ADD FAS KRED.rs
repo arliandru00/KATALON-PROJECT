@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_-- Pilih --_fa fa-plus ADD FAS KRED</name>
+   <tag></tag>
+   <elementGuidId>67d4e4f6-2dbc-4250-9bbb-80eb6c813b25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-plus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='table_fasilitas']/tbody/tr/td[9]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>60cb58c5-fb72-4760-ba8a-863d51679501</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus</value>
+      <webElementGuid>b8678df6-1199-4f3f-befc-172cd432e0a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>06075456-ff4a-49a1-a0e6-cc5cc9135c0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_fasilitas&quot;)/tbody[1]/tr[1]/td[9]/a[@class=&quot;btn btn-sm btn-success btn-add btn-add-fasilitas&quot;]/i[@class=&quot;fa fa-plus&quot;]</value>
+      <webElementGuid>0c766721-97e7-4799-9599-9eaa9cafeaf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_fasilitas']/tbody/tr/td[9]/a/i</value>
+      <webElementGuid>97c4e8a4-5911-4995-b0d5-1f765e1dd7ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/a/i</value>
+      <webElementGuid>69472d2f-b5e8-4101-9367-8621122b2a1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

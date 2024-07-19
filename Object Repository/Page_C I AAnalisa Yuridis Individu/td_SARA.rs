@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_SARA</name>
+   <tag></tag>
+   <elementGuidId>bd79d516-8839-4954-8f24-5044304964e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='dtl_ay_individu']/tbody/tr[6]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>6ed74906-9244-460c-b478-6523bb538cf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>column_nama footable-visible</value>
+      <webElementGuid>e3bf48e8-1c45-4600-8c8a-e1f9aa0ba72b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SARA</value>
+      <webElementGuid>868fc6b2-c95f-4287-b72e-0c90b0cf5f56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dtl_ay_individu&quot;)/tbody[1]/tr[@class=&quot;even&quot;]/td[@class=&quot;column_nama footable-visible&quot;]</value>
+      <webElementGuid>317b2693-7e47-4ab0-92cf-7890328de6c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='dtl_ay_individu']/tbody/tr[6]/td[2]</value>
+      <webElementGuid>7da7347d-b2e1-4468-8beb-e1d15282983f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analisa'])[5]/following::td[3]</value>
+      <webElementGuid>dc991880-2bff-40ab-adf3-efff73f8518b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ktp'])[4]/following::td[4]</value>
+      <webElementGuid>49280611-9044-4210-902b-ad4450faedb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produktif'])[3]/preceding::td[1]</value>
+      <webElementGuid>002c4520-d073-4dcc-b8b7-f7894f447ab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 8,000,000,000.00'])[2]/preceding::td[2]</value>
+      <webElementGuid>d6d60631-196b-4155-94f2-fd67e8df0ecb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SARA']/parent::*</value>
+      <webElementGuid>fe791889-2455-41a2-8cbb-18560e61e0a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[2]</value>
+      <webElementGuid>c36be16f-c602-4dc7-b0aa-7d85035c85fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'SARA' or . = 'SARA')]</value>
+      <webElementGuid>ddbce09a-ddaf-4cf8-9986-7829257837b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

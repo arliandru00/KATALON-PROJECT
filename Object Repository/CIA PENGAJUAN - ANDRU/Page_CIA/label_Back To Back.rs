@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Back To Back</name>
+   <tag></tag>
+   <elementGuidId>ee0f475f-b2e2-48d2-a018-e98b8f080470</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#BTB > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='BTB']/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4da34ac3-0511-45f6-a30b-9cfdff2fdb7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>radio_BTB</value>
+      <webElementGuid>01e93f3a-0b20-49ff-bbcc-b57dd4cc05bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back To Back</value>
+      <webElementGuid>94bd60e3-ce27-4c27-bbca-106cb08f06d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BTB&quot;)/label[1]</value>
+      <webElementGuid>c98987b4-7440-42ab-aa73-25f6e82843ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='BTB']/label</value>
+      <webElementGuid>5f57eece-8d40-4842-b556-9fde036c2947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tunai'])[1]/following::label[1]</value>
+      <webElementGuid>944a089f-b96e-4251-873f-a173dc2b548e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fixed Asset'])[1]/following::label[2]</value>
+      <webElementGuid>b6736978-af8a-4d8f-b65c-3fa9101eaade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penjamin Deposito'])[1]/preceding::label[1]</value>
+      <webElementGuid>30a4e03e-372b-4c30-83d1-3916ee3f170e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agunan Tunai'])[1]/preceding::label[2]</value>
+      <webElementGuid>61008851-a406-477b-b3d9-c7e918bb02ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Back To Back']/parent::*</value>
+      <webElementGuid>e14d21d4-af27-4cfc-9c14-90bed5763725</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div/label</value>
+      <webElementGuid>385a82bf-ada3-46f9-9379-e385b9a6d1f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Back To Back' or . = 'Back To Back')]</value>
+      <webElementGuid>eb19fa55-c2f9-4fad-9e56-cf6f1a6c6c6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Individu  Perorangan_fas fa-search</name>
+   <tag></tag>
+   <elementGuidId>23290ac3-c997-47ea-8c31-4ed30ac1827b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary > i.fas.fa-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_check_dhnbi']/div/div/div/div/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d311a483-d88c-4e8f-b97f-1fcadd6e4f59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-search</value>
+      <webElementGuid>625fcc52-4662-41a4-acaf-e5b48293b11c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_check_dhnbi&quot;)/div[@class=&quot;div_dhnbi_individu&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;input-group-append&quot;]/button[@class=&quot;btn btn-primary&quot;]/i[@class=&quot;fas fa-search&quot;]</value>
+      <webElementGuid>43f4b0c4-f329-4270-9f84-427da3a55371</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_check_dhnbi']/div/div/div/div/button/i</value>
+      <webElementGuid>36addce1-b67f-4279-87d2-cce456d8cb94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/button/i</value>
+      <webElementGuid>13367cc2-e3fc-404b-b563-919156bc8672</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Agunan Tunai</name>
+   <tag></tag>
+   <elementGuidId>b5497110-90a4-415a-8327-a779799abd93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#AGT > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AGT']/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b362d748-ab10-44f9-8b52-65322249eaad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>radio_AGT</value>
+      <webElementGuid>af737898-24c7-47bc-8e69-a5e3e950f5b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Agunan Tunai</value>
+      <webElementGuid>e08bfe02-577f-400d-9cfe-eb83d9bb6955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AGT&quot;)/label[1]</value>
+      <webElementGuid>0acc4192-07f0-4b0f-b9a5-e68bff9c00f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AGT']/label</value>
+      <webElementGuid>98f32d4d-9736-4a71-a8b0-a70eb18d0b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penjamin Deposito'])[1]/following::label[1]</value>
+      <webElementGuid>136e9e23-2ffa-48ff-92d0-41260418fb69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back To Back'])[1]/following::label[2]</value>
+      <webElementGuid>5c5713f6-e574-4983-af05-b0dcc35fcb78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ORI'])[1]/preceding::label[1]</value>
+      <webElementGuid>2a0632cd-7227-49aa-9783-9bcda3f81b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Standby L/C'])[1]/preceding::label[2]</value>
+      <webElementGuid>af81d48d-1ab6-4303-a2c6-8adbd48f1905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/label</value>
+      <webElementGuid>bfe19f48-96d3-47bc-b4d3-ec09afc1bd23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Agunan Tunai' or . = 'Agunan Tunai')]</value>
+      <webElementGuid>2e4b41b2-e157-4995-984d-4966ab91251f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>c0de9045-6c75-4b9c-82e3-86077b39a811</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='coldat_adgrid_34195901']/div/div[2]/div/div[2]/div/table/tbody/tr[2]/td[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.pq-grid-cell.focused_cell > div.pq-td-div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>205318de-3976-404d-960e-c1ce7826518d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pq-td-div</value>
+      <webElementGuid>d9f028a5-177e-4359-b4e5-aad5b0622205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>ca11f2f0-384f-4f43-aa69-d63d143e3a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;coldat_adgrid_34195901&quot;)/div[@class=&quot;pq_grid pq-grid ui-widget ui-widget-content ui-corner-all&quot;]/div[@class=&quot;pq-grid-inner&quot;]/div[@class=&quot;pq-grid-right&quot;]/div[@class=&quot;pq-cont-right&quot;]/div[@class=&quot;pq-cont&quot;]/table[@class=&quot;pq-grid-table pq-grid-td-border-right pq-grid-td-border-bottom&quot;]/tbody[1]/tr[@class=&quot;pq-grid-row pq-grid-oddRow pq-row-select ui-state-highlight&quot;]/td[@class=&quot;pq-grid-cell  focused_cell&quot;]/div[@class=&quot;pq-td-div&quot;]</value>
+      <webElementGuid>f3a346f7-8c8c-4290-8d25-3d545e1f6b66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='coldat_adgrid_34195901']/div/div[2]/div/div[2]/div/table/tbody/tr[2]/td[2]/div</value>
+      <webElementGuid>e2497154-a7e7-45fd-ae1a-e8eeb3820b5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/preceding::div[15]</value>
+      <webElementGuid>fd401e21-ff15-441e-8314-b2196fdba40b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::div[15]</value>
+      <webElementGuid>3ffb045e-3475-4bad-aed1-3f5635cfe7c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/table/tbody/tr[2]/td[2]/div</value>
+      <webElementGuid>7dc79f5f-b445-4534-bd3b-3f8b3c8d24e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' ' or . = ' ')]</value>
+      <webElementGuid>b81aaf24-e5ff-4fbf-acb5-6f42aa40ec62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='coldat_adgrid_34191251']/div/div[2]/div/div[2]/div/table/tbody/tr[2]/td[2]/div</value>
+      <webElementGuid>69cd1a18-68de-46f6-ab2e-72910eb7d01d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
